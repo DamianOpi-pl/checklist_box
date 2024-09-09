@@ -1,0 +1,9 @@
+media/
+files/
+.env
+
+.ruff_cache
+.idea
+.DS_Store
+
+__pycache__/
